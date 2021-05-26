@@ -1,0 +1,12 @@
+.header__lang-link {
+  margin: 0 0 0 18px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.header__lang-link:focus {
+  text-decoration: underline;
+}
