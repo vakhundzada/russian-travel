@@ -1,0 +1,12 @@
+.place {
+  display: grid;
+  grid-template-rows: repeat(2, auto);
+  grid-template-columns: 1fr auto;
+  gap: 48px 40px;
+  padding-top: 80px;
+  box-sizing: border-box;
+}
+
+.place:nth-child(1) {
+  padding-top: 0;
+}
