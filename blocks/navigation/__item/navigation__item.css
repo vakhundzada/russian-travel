@@ -1,0 +1,8 @@
+.navigation__item {
+  list-style: none;
+  margin: 0 18px 0 0;
+}
+
+.navigation__item:last-child {
+  margin: 0;
+}
