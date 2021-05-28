@@ -7,3 +7,7 @@
   z-index: 2;
   max-width: 360px;
 }
+
+.cover__subtitle:hover ~ .cover__overlay {
+  opacity: 80%;
+}

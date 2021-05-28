@@ -7,4 +7,9 @@
   width: 100%;
   min-height: 740px;
   z-index: 1;
+  transition: .4s opacity  ease-in;
+}
+
+.cover__overlay:hover {
+  opacity: 80%;
 }
