@@ -1,7 +1,4 @@
 .place__title {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
   font-size: 72px;
   font-weight: 900;
   line-height: 76px;

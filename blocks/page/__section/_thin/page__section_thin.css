@@ -1,5 +1,6 @@
 .page__section_thin {
-  max-width: 984px;
+  max-width: 1032px;
+  padding: 0 48px;
   margin: auto;
   box-sizing: border-box;
 }

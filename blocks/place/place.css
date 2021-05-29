@@ -4,7 +4,6 @@
   grid-template-columns: 1fr auto;
   gap: 48px 40px;
   padding-top: 80px;
-  box-sizing: border-box;
 }
 
 .place:nth-child(1) {
