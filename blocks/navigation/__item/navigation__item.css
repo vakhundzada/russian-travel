@@ -6,3 +6,15 @@
 .navigation__item:last-child {
   margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .navigation__item {
+    margin-top: 32px;
+  }
+  .navigation__item:last-child {
+    margin-top: 32px;
+  }
+  .navigation__item:first-child {
+    margin: 0;
+  }
+}

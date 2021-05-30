@@ -4,3 +4,15 @@
   padding: 0 48px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+  .page__section {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page__section {
+    padding: 0 16px;
+  }
+}
