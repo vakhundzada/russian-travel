@@ -12,6 +12,11 @@
   margin: 0;
 }
 
+.header__lang-link:hover {
+  opacity: 80%;
+  transition: .2s ease-in-out;
+}
+
 @media screen and (max-width: 320px) {
   .header__lang-link{
     font-size: 18px;
