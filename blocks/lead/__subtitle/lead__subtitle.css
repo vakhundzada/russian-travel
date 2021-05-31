@@ -7,10 +7,26 @@
   max-width: 640px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 732px) {
   .lead__subtitle {
     margin: 16px 0 0 0;
-    max-width: 288px;
+    font-size: 24px;
+    line-height: 27px;
+    max-width: 396px;
+  }
+}
+
+@media screen and (max-width: 582px) {
+  .lead__subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    margin: 16px 0 0 0;
     font-size: 16px;
     line-height: 20px;
     padding: 0 24px;
