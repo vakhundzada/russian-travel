@@ -5,7 +5,7 @@
 @import url("../vendor/fonts.css");
 @import url("../blocks/page/page.css");
 @import url("../blocks/page/__section/page__section.css");
-@import url("../blocks/page/__thin-section/page__thin-section.css");
+@import url("../blocks/page/__thin-section/page__section_thin.css");
 
 /* BLOCKS */
 @import url("../blocks/root/root.css");
