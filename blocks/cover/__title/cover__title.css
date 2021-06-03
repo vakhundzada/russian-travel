@@ -1,16 +1,14 @@
 .cover__title {
+  height: 50%;
   margin: 0;
   padding: 0 16px;
   font-size: 72px;
   font-weight: 900;
   line-height: 76px;
   text-align: center;
-  z-index: 2;
   max-width: 560px;
-}
-
-.cover__title:hover ~ .cover__overlay {
-  opacity: 80%;
+  opacity: 100%;
+  z-index: 3;
 }
 
 @media screen and (max-width: 630px) {

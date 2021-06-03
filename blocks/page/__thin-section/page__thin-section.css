@@ -1,4 +1,4 @@
-.page__section_thin {
+.page__thin-section {
   max-width: calc(984px + (48px * 2));
   padding: 0 48px;
   margin: auto;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .page__section_thin {
+  .page__thin-section {
     padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .page__section_thin {
+  .page__thin-section {
     padding: 0 16px;
   }
 }
